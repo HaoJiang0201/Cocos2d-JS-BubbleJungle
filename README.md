@@ -16,8 +16,8 @@ Created By:
 2. Install Cocos2d-JS SDK;
 3. Create a new project: cocos new -l js test;
 4. Copy all files from this repo to the new cocos project path; Replace default files;
-4. Edit and debug in WebStorm and Chrome DevTool;
-5. Release: cocos compile -p web -m release
+5. Edit and debug in WebStorm and Chrome DevTool;
+6. Release: cocos compile -p web -m release
 
 ## Game Link:
 https://haojiang0201.github.io/cocos/BubbleJungle/
